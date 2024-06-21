@@ -1,0 +1,4 @@
+
+ram: cc
+ram: bvvvb
+sek: ccc
